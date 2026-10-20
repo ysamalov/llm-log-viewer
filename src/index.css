@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --tooltip-bg: #ffffff;
+}
+
+.dark {
+  --tooltip-bg: #1f2937;
+}
